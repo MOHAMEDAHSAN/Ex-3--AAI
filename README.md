@@ -124,7 +124,9 @@ print(query_result)
 
 ## Output:
 
-<img width="721" height="548" alt="308401376-82d8b4de-80b1-401f-a4c1-95146185297b" src="https://github.com/user-attachments/assets/17736979-be1f-46a8-ab6b-ed1ce46a3cf2" />
+<img width="662" height="485" alt="image" src="https://github.com/user-attachments/assets/a8047523-db21-482d-bdc4-0596d8dfefda" />
+
+<img width="312" height="79" alt="image" src="https://github.com/user-attachments/assets/2b85766c-e1a6-4d18-8f28-a503043b5a4e" />
 
 
 ## Result:
